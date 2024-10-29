@@ -19,7 +19,3 @@ docker tag <imageId> <username>/<repo>:<tag>
 docker push <username>/<repo>:<tag>
 ```
 
-# Nextjs + Server requests
-
-- use container name to communicate between microservices, localhost does not work
-
